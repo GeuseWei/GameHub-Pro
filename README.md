@@ -1,10 +1,15 @@
-# GameHub
+# GameHub Pro
 
-GameHub is a comprehensive video game discovery platform that not only helps you find new and intriguing games to play but also offers an enhanced experience by allowing you to explore detailed game profiles. With GameHub, you can search for games by platform, genre, and other criteria. Additionally, you can now click on any game to access its detailed description, watch trailers, view screenshots, and more, providing a deeper understanding of each game before you dive in.
+GameHub Pro is a comprehensive video game discovery platform offering a unique and enhanced gaming experience.
+
+- **Enhanced Experience**: Explore detailed game profiles for a more informed choice.
+- **Search Flexibility**: Find games by platform, genre, and various other criteria.
+- **In-Depth Game Details**: Access detailed descriptions, watch trailers, and view screenshots for each game.
+- **Comprehensive Understanding**: Gain a deeper insight into each game before deciding to play.
 
 ## Getting Started
 
-To get started with GameHub, follow these steps:
+To get started with GameHub Pro, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Run `npm install` to install the required dependencies.
